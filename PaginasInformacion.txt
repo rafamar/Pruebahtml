@@ -1,0 +1,14 @@
+https://www.w3.org/developers/tools/    Para validar la normalización de páginas web
+
+https://gs.statcounter.com/             Para ver estadisticas tecnología (buscadores más usados)
+
+https://www.woorank.com/                Para analizar páginas y que te recomiende sobre SEO
+
+https://www.seositecheckup.com          Para auditar también un informe test
+
+https://www.trends.google.com           Palabras que son tendencia en las búsquedas de google para poner el metacontent de web
+
+
+
+
+
